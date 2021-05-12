@@ -1,0 +1,6 @@
+author: henrick
+domain: www.johnyzone.com
+index_generator:
+  path: ''
+  per_page: 9
+  order_by: -date
