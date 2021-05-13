@@ -105,7 +105,7 @@ theme: Quiet
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/henrickcn/www.johnyzone.com.git
+  repository: https://github.com/henrickcn/henrick.blog.github.io.git
   branch: master
 
 
