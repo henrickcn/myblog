@@ -9,9 +9,9 @@ is_article_img: true  #false是否开启文章背景图显示(随机图片)
 web_description: Johny是一个人blog,基于hexo开发，主要记录博主的工作与生活
 
 # logo
-logo: /image/logo.png
+logo: /image/my_logo.png
 # 网页标签上那个小图标 一定要用本地存储
-icon: /image/favicon.ico
+icon: /image/favicon.ico?v=2
 icp: 粤ICP备14057599号-3
 # 导航名称
 menus_title:
