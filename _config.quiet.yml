@@ -7,6 +7,12 @@ keyword: Johny,php,css,html,javascript,linux
 is_article_img: true  #false是否开启文章背景图显示(随机图片)
 # 网站描述
 web_description: Johny是一个人blog,基于hexo开发，主要记录博主的工作与生活
+
+# logo
+logo: /image/logo.png
+# 网页标签上那个小图标 一定要用本地存储
+icon: /image/favicon.ico
+icp: 粤ICP备14057599号-3
 # 导航名称
 menus_title:
   home: 首页
@@ -19,3 +25,22 @@ index_generator:
   path: ''
   per_page: 9
   order_by: -date
+
+bottomIcon: 
+  #可以多个
+  - {
+    #描述名称
+    name: 'Github',
+    #图标    
+    iconLink: 'https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imggithub.png',
+    #跳转链接    
+    toUrl: 'https://github.com/henrickcn'
+  }
+# 友情链接
+linksList:
+  - {
+    title: '加贝云工作室',
+    intro: '专注于web端、移动端产品研发工作',
+    link: 'https://www.jiabeiyun.com/',
+    image: 'https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgIMG_7327.jpeg'
+  }
