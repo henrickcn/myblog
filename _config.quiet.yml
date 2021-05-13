@@ -1,5 +1,20 @@
 author: henrick
 domain: www.johnyzone.com
+title: Johny Blog
+suffix: 感悟源自于生活
+home_describe:  记录工作与生活的点滴，回味精彩人生！JUST DO IT
+keyword: Johny,php,css,html,javascript,linux
+is_article_img: true  #false是否开启文章背景图显示(随机图片)
+# 网站描述
+web_description: Johny是一个人blog,基于hexo开发，主要记录博主的工作与生活
+# 导航名称
+menus_title:
+  home: 首页
+  archive: 所有文章
+  categories: 博文分类
+  tags: 博文标签
+  links: 友情链接
+  about: 关于博主
 index_generator:
   path: ''
   per_page: 9
